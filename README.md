@@ -7,8 +7,14 @@
 
 ## Install
 
+npm
 ```
-$ npm install --save @fakerjs/tld
+npm install @fakerjs/tld --save-dev
+```
+
+yarn
+```
+yarn add @fakerjs/tld -D
 ```
 
 ## Usage
